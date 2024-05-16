@@ -1,3 +1,5 @@
 Good Morning Every One
 
 I have added this line in remote repo
+
+now i am using git pull (fetch and merge)
